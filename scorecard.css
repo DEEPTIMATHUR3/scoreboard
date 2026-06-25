@@ -1,0 +1,43 @@
+body{
+    /* color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    background-color: aqua;
+    /* background-image: url(https://www.shutterstock.com/image-photo/create-background-on-cricket-themes-260nw-2612912433.jpg);
+background-repeat: none; */
+}
+
+.team-a{
+    margin-right: 40px;
+}
+.team-b{
+    margin-left: 40px;
+}
+button{
+    width:45px;
+    background-color: rgb(238, 238, 105);
+}
+#a-score{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(11, 1, 1);
+    color: red;
+    text-align: center;
+    padding:20px;
+    font-size: 70px;
+   
+    
+
+}
+#b-score{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+     color: red;
+     text-align: center;
+    padding:20px;
+    font-size: 70px;
+
+}
